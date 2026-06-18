@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Java compiled output
+*.class
+out/
+
+# C++ compiled binaries and debug symbols
+*.dSYM/
+Arrays/next_permutation
+Arrays/np
+
+# IDE
+.idea/
+.vscode/
